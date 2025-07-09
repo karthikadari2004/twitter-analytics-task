@@ -61,7 +61,7 @@ This project showcases a complete Power BI dashboard with the following tasks im
 | `task5.pbix`        | Power BI dashboard for Task 5        |
 | `SocialMedia.csv`   | Dataset used for all tasks           |
 | `README.md`         | Description of the project and tasks |
-| `Screenshot`        | Screenshots of all tasks             |
+| `Screenshots`       | Screenshots of all tasks             |
 ---
 
 ## 🔧 Tools Used
