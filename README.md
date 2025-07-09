@@ -89,7 +89,7 @@ This project showcases a complete Power BI dashboard with the following tasks im
 **Tasks Completed:** 1, 2, 3, 4, 5  
 **Duration:** 10 May 2025 – 10 July 2025  
 **Submitted By:** *A.B.K.Karthik*  
-**GitHub Repository Link:** *[Paste your link here]*
+**GitHub Repository Link:** *https://github.com/karthikadari2004/twitter-analytics-task*
 
 ---
 
